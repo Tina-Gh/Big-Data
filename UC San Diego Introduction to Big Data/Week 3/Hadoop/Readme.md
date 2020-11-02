@@ -1,1 +1,1 @@
-week hadod
+## Codes and assignments for Hadoop
