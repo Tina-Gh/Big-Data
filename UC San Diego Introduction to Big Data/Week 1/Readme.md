@@ -1,1 +1,4 @@
-Week 1 quizz and slides
+## Week 1 
+
+- Materials and slides
+- quizzes
